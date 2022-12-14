@@ -13,5 +13,6 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="num1">Slideshow</string>
+    <string name="num2">Slideshow</string>
 
 </resources>
